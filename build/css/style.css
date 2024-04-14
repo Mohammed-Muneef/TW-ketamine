@@ -842,6 +842,10 @@ video {
   background-image: url(../images/jacob-laducer-Un5OLMEZFOg-unsplash.jpg);
 }
 
+.bg-\[url\(\'\.\.\/images\/fern-leaves-closeup-as-background-tidewater-green-color-trend-horizontal-orientation-selective-focu_10\.jpg\'\)\] {
+  background-image: url('../images/fern-leaves-closeup-as-background-tidewater-green-color-trend-horizontal-orientation-selective-focu_10.jpg');
+}
+
 .bg-cover {
   background-size: cover;
 }
